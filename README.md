@@ -43,7 +43,7 @@
 💬 Ask from me anything you want, If I am alive I will answer 😉<br>
 📰 My First Web Page [https://gauravshankarkumar.github.io/GSK--HTML-Practice/index.html](https://gauravshankarkumar.github.io/GSK--HTML-Practice/index.html)😎<br><br><br><br>
  
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...*** 🛠
+### 🛠 &nbsp;Tech Stack
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="left">
