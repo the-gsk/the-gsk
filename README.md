@@ -10,12 +10,12 @@
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-27-blue" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-India%20-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Learning-blue" />
+  <img src="https://img.shields.io/badge/Lives-India%20-blue" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-blue" />
 </p>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Gaurav Shankar Kumar </h1>
 <h3 align="center">Learning Full Stack Web Devloper  </h3>
 
@@ -34,7 +34,7 @@
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***👨🏻‍💻 About me ....***
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;👨🏻‍💻 About me ....
 
 💡 I like to explore new technologies and develop solutions and quick hacks <br>
 👀 I’m interested in Python<br>
@@ -44,8 +44,7 @@
 📰 My First Web Page [https://gauravshankarkumar.github.io/GSK--HTML-Practice/index.html](https://gauravshankarkumar.github.io/GSK--HTML-Practice/index.html)😎<br><br><br><br>
  
 ### 🛠 &nbsp;Tech Stack
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left">
   
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -61,7 +60,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
 <a href="https://github.com/gauravshankarkumar">
@@ -71,17 +70,16 @@
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
 <a href="https://www.linkedin.com/in/gauravshankarkumar/"><img src="https://img.shields.io/badge/-Gaurav%20Shankar%20Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:gauravshankarkumar@gmail.com"><img src="https://img.shields.io/badge/-gauravshankarkumar@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/gauravshankarkumar/"><img src="https://img.shields.io/badge/-@gaurav-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/gauravshankarkumar"><img src="https://img.shields.io/badge/-@Gaurav-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://twitter.com/gauravshankarkr"><img src="https://img.shields.io/badge/-@Gaurav-BD081C?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.instagram.com/gauravshankarkumar/"><img src="https://img.shields.io/badge/-@gauravshankarkumar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/gauravshankarkumar"><img src="https://img.shields.io/badge/-@gauravshankarkumar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/gauravshankarkr"><img src="https://img.shields.io/badge/-@gauravshankarkr-BD081C?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Credits: [gsk](https://github.com/gauravshankarkumar)
 
